@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351086141673",
+    "firebase_url": "https://newentry2.firebaseio.com",
+    "project_id": "newentry2",
+    "storage_bucket": "newentry2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351086141673:android:d0c1674f41050012709078",
+        "android_client_info": {
+          "package_name": "com.example.mahavir_agro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351086141673-lm5ll58um75cfpho7qt7rejncqdm8isk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahavir_agro",
+            "certificate_hash": "30f9e859ce3e340ee9b09a8a7abac1d3ca71c21f"
+          }
+        },
+        {
+          "client_id": "351086141673-0d8dsd55vhoca3f7v3s94k15ktqs5v2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnjl3-3-enp7wMFRUMzGDQhMAJSEbguc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351086141673-0d8dsd55vhoca3f7v3s94k15ktqs5v2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

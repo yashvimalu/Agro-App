@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mahavir_Agro</string>
+    <string name="customer_registration">Customer registration</string>
+    <string name="new_entry">New Entry</string>
+    <string name="view_data">View Data</string>
+    <string name="processsing_information">Processsing Information</string>
+    <string name="name_of_customer">Name of Customer</string>
+    <string name="truck_number">Truck Number</string>
+    <string name="time_of_receiving">Time of Receiving</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="quantity_in_quintal">Quantity in Quintal</string>
+    <string name="date_of_receiving">Date Of Receiving</string>
+    <string name="type_of_grain">Type of Grain</string>
+    <string name="number_ofbags">Number of Bags</string>
+    <string name="time_or_receiving">Time Or Receiving</string>
+    <string name="customer_name_wise">Customer Name Wise</string>
+    <string name="grain_wise">Grain Wise</string>
+    <string name="viewing_entries">Viewing Entries</string>
+    <string name="date_wise">Date Wise</string>
+    <string name="choose_name_of_customer">Choose Name of Customer</string>
+    <string name="choose_grain">Choose Grain</string>
+    <string name="next">Next</string>
+    <string name="date">Date</string>
+    <string name="number_of_bags">Number of Bags</string>
+    <string name="quantity_received">Quantity Received</string>
+    <string name="truckNumber">Truck Number</string>
+</resources>
